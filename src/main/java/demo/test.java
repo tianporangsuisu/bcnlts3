@@ -18,6 +18,8 @@ public class test {
         in.setName("小小丑");
         in.setSex(1);
         in.in(con);
+        //这样可以吗
+        //错了再来一次
     }
 }
 //这里是tianporangsuisusu查看的痕迹。
